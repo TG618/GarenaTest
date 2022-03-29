@@ -1,0 +1,27 @@
+[
+    {
+        "imgName": "2B",
+        "describe": "I Love 2B",
+        "src": "img/character1.png"
+    },
+    {
+        "imgName": "9s",
+        "describe": "I Love 9s",
+        "src": "@/assets/img/character/character1.png"
+    },
+    {
+        "imgName": "A2",
+        "describe": "I Love A2",
+        "src": "../assets/img/character/character1.png"
+    },
+    {
+        "imgName": "Kiana Kaslana",
+        "describe": "I Love Kiana Kaslana",
+        "src": "../assets/img/character/character1.png"
+    },   
+    {
+        "imgName": "Murata Himeko",
+        "describe": "I Love Murata Himeko",
+        "src": "../assets/img/character/character1.png"
+    }
+]
