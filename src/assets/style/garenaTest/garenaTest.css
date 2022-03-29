@@ -71,6 +71,7 @@ body {
     width: 100%;
     height: 50px;
     position: relative;
+    margin-top: 70px;
 }
 
 .divid-content{
@@ -78,7 +79,6 @@ body {
     width: 100px;
     height: 50px;
     margin: 0px auto;
-    margin-top: 50px;
     background-color: #72727282;
     display: flex;
     justify-content: center;
